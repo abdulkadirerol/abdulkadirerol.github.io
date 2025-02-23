@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year MSc student in the Department of Computer Science at Georgia State University. My research interest broadly lies in multi-modal learning, machine learning, and generative AI.
+I am a second-year MSc student in the Department of Computer Science at [Georgia State University](https://www.gsu.edu/). My research interest broadly lies in multi-modal learning, machine learning, and generative AI.
 
-I graduated from my undergraduate studies in the Department of Computer Engineering at Bilkent University.
+I graduated from my undergraduate studies in the Department of Computer Engineering at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
 
 Here is a link to my [CV](../files/abdulkadir_erol_CV.pdf).
 
 Publications
 ======
-Playing Devil’s Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models
+- Playing Devil’s Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models
 **A. Erol**, T. Padhi, A. Saha, M. E. Aktas, U. Kursuncu [arXiv](https://arxiv.org/abs/2501.09039)
 
-Examining Large Language Models: A Comprehensive Assessment from a Mental Health Lens
+- Examining Large Language Models: A Comprehensive Assessment from a Mental Health Lens
 J. K. Mandivarapu, **A. Erol**, T. Padhi, G. Kumar, C. R. Larrison, U. Kursuncu
 *Under Preparation, arXiv preprint coming soon* 
 
