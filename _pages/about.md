@@ -30,5 +30,5 @@ Selected Honors and Awards
 - 2017 Ranked 934th in the Nationwide University Entrance Exam (LYS) among 2 million students
 - 2017 Ranked 1st in Yozgat Şehitler Science High School, GPA: 97.6/100
 - 2015 Outstanding Performance in AP Computer Science, North Oconee High School
-- 2013 1st place in Regional \& Finalist in National TUBITAK “Bu Benim Eserim” Math and Science Project Competition
+- 2013 1st place in Regional & Finalist in National TUBITAK “Bu Benim Eserim” Math and Science Project Competition
 - 2010 National finalist in National Chess Tournament
