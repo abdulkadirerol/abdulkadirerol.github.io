@@ -22,11 +22,11 @@ repository               : "abdulkadirerol/abdulkadirerol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Abdulkadir Erol"
   pronouns         : # example: "she/her"  
-  bio              : "2nd-year MSc Student in Computer Science at GSU"
-  location         : "Earth"
+  bio              : "2nd-year MSc Student in Computer Science"
+  location         : "Atlanta, Georgia"
   employer         : "Georgia State University"
   uri              : # URL
   email            : "aerol1@student.gsu.edu" 

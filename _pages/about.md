@@ -16,15 +16,10 @@ Here is a link to my [CV](../files/abdulkadir_erol_CV.pdf).
 Publications
 ======
 Playing Devil’s Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models
-
-**A. Erol**, T. Padhi, A. Saha, M. E. Aktas, U. Kursuncu
-
-[arXiv](https://arxiv.org/abs/2501.09039)
+**A. Erol**, T. Padhi, A. Saha, M. E. Aktas, U. Kursuncu [arXiv](https://arxiv.org/abs/2501.09039)
 
 Examining Large Language Models: A Comprehensive Assessment from a Mental Health Lens
-
 J. K. Mandivarapu, **A. Erol**, T. Padhi, G. Kumar, C. R. Larrison, U. Kursuncu
-
 *Under Preparation, arXiv preprint coming soon* 
 
 Selected Honors and Awards
