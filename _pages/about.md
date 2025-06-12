@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year MSc student in the Department of Computer Science at [Georgia State University](https://www.gsu.edu/). My research interest broadly lies in computational social science, multi-modal learning, and generative AI models.
+I am a graduated MSc student from the Department of Computer Science at [Georgia State University](https://www.gsu.edu/). My research interest broadly lies in computational social science, multi-modal learning, and generative AI models.
 
 I graduated from my undergraduate studies in the Department of Computer Engineering at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
 
@@ -19,9 +19,9 @@ Publications
 **A. Erol**, T. Padhi, A. Saha, M. E. Aktas, U. Kursuncu <br>
 [arXiv](https://arxiv.org/abs/2501.09039)
 
-- Examining Large Language Models: A Comprehensive Assessment from a Mental Health Lens <br>
-J. K. Mandivarapu, **A. Erol**, T. Padhi, G. Kumar, C. R. Larrison, U. Kursuncu <br>
-*Under Preparation, arXiv preprint coming soon* 
+- From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data <br>
+U. Kursuncu, T. Padhi, G. Kumar, **A. Erol**, J. K. Mandivarapu, C. R. Larrison <br>
+[arXiv](https://arxiv.org/abs/2505.18464)
 
 Selected Honors and Awards
 ======
