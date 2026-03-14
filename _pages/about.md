@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduated MSc student from the Department of Computer Science at [Georgia State University](https://www.gsu.edu/). My research interest broadly lies in computational social science, multi-modal learning, and generative AI models.
+I am currently a PhD student in the Department of Computer Science at the University of Central Florida, advised by [Prof. Cüneyt Gürcan Akçora](https://cakcora.github.io/). My research focuses on Topological Data Analysis (TDA) and Large Language Models (LLMs), with a particular emphasis on understanding model behavior, robustness, and representation dynamics in modern AI systems.
 
-I graduated from my undergraduate studies in the Department of Computer Engineering at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/).
-
-Here is a link to my [CV](../files/abdulkadir_erol_CV.pdf).
+I received my M.S. in Computer Science from Georgia State University. I completed my undergraduate studies in the Department of Computer Engineering at Bilkent University. [CV](../files/abdulkadir_erol_CV.pdf).
 
 Publications
 ======
@@ -22,6 +20,10 @@ Publications
 - From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data <br>
 U. Kursuncu, T. Padhi, G. Kumar, **A. Erol**, J. K. Mandivarapu, C. R. Larrison <br>
 [arXiv](https://arxiv.org/abs/2505.18464)
+
+- Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks
+T. Padhi, P. Lu, **A. Erol**, T. Sutar, G. Sharma, M. Sonmez, M. D. Choudhury, U. Kursuncu <br>
+[arXiv](https://arxiv.org/abs/2510.14207)
 
 Selected Honors and Awards
 ======
