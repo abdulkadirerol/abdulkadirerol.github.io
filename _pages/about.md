@@ -9,7 +9,9 @@ redirect_from:
 
 I am currently a PhD student in the Department of Computer Science at the University of Central Florida, advised by [Prof. Cüneyt Gürcan Akçora](https://cakcora.github.io/). My research focuses on Topological Data Analysis (TDA) and Large Language Models (LLMs), with a particular emphasis on understanding model behavior, robustness, and representation dynamics in modern AI systems.
 
-I received my M.S. in Computer Science from Georgia State University. I completed my undergraduate studies in the Department of Computer Engineering at Bilkent University. [CV](../files/abdulkadir_erol_CV.pdf).
+I received my M.S. in Computer Science from Georgia State University. I completed my undergraduate studies in the Department of Computer Engineering at Bilkent University. 
+
+Here is a link to my [CV](../files/abdulkadir_erol_CV.pdf).
 
 Publications
 ======
