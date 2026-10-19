@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the Department of Computer Science at the Univ
 
 I received my M.S. in Computer Science from Georgia State University, where I worked with [Prof. Uğur Kursuncu](https://www.ugurkursuncu.com/) on LLMs and Large Vision-Language Models (LVLMs). I earned my B.Sc. in Computer Engineering from Bilkent University and participated in an Erasmus+ exchange program at EPITA in Paris.
 
-Here is a link to my [CV](../files/abdulkadir_erol_CV.pdf).
+Here is a link to my <a href="/files/AbdulkadirErolCV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
 
 Publications
